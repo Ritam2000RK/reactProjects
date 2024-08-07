@@ -68,7 +68,13 @@ button:focus-visible {
 } */
 
 p {
-  font-size: 2rem;
+  font-size: 1.5rem;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: arial;
 }
 
 h1 {
@@ -78,5 +84,6 @@ h1 {
   background-color: white;
   margin: 0;
   padding: 1rem ;
-  border: 2px solid black;
+  border: 2px solid red;
+  color: black;
 }
